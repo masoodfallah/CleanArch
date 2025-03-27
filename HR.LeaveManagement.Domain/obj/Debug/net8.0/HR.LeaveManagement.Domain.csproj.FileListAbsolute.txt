@@ -1,0 +1,11 @@
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.deps.json
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\refint\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net8.0\ref\HR.LeaveManagement.Domain.dll

@@ -1,0 +1,17 @@
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.deps.json
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.AssemblyInfo.cs
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.Leave.04E17DFA.Up2Date
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\refint\HR.LeaveManagement.Infrastructure.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\HR.LeaveManagement.Infrastructure.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Infrastructure\obj\Debug\net8.0\ref\HR.LeaveManagement.Infrastructure.dll

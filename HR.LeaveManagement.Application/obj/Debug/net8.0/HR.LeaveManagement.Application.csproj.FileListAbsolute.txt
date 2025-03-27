@@ -1,0 +1,15 @@
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.deps.json
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.Leave.CEB84392.Up2Date
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\refint\HR.LeaveManagement.Application.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\HR.LeaveManagement.Application.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net8.0\ref\HR.LeaveManagement.Application.dll
