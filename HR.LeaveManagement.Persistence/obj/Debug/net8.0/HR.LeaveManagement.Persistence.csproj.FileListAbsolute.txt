@@ -1,0 +1,17 @@
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.deps.json
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Application.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Domain.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Application.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\bin\Debug\net8.0\HR.LeaveManagement.Domain.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.csproj.AssemblyReference.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.AssemblyInfoInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.AssemblyInfo.cs
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.csproj.CoreCompileInputs.cache
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.Leave.AAB3476A.Up2Date
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\refint\HR.LeaveManagement.Persistence.dll
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\HR.LeaveManagement.Persistence.pdb
+E:\PersonalProject\.Net-Learning-Projects\HR.LeaveManagement\HR.LeaveManagement.Persistence\obj\Debug\net8.0\ref\HR.LeaveManagement.Persistence.dll
